@@ -1,12 +1,12 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`PUC Minas`
 
-`CURSO`
+`Engenharia de computação`
 
-`SEMESTRE`
+`1º Semestre`
 
-`DISCIPLINA`
+`Laboratório de Introdução em Engenharia da Computação`
 
 
 ## Integrantes
