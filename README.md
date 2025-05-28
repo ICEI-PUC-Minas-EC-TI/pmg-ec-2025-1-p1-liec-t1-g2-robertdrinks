@@ -18,7 +18,9 @@
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marta Dias Moreira Noronha
+* Naísses Zoia Lima
+* Sandro Jerônimo de Almeida
 
 ## Resumo
 
