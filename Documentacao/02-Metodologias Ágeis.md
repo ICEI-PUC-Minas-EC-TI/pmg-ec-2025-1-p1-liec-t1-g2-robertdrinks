@@ -25,8 +25,8 @@ A equipe se organizou utilizando o Trello, uma plataforma online de gestão de t
 ### Ferramentas
 
 A equipe utilizou os seguintes ambientes de desenvolvimento e ferramentas:
- - Arduino IDE: utilizado para a programação da parte física da máquina (controle de motores, sensores, atuadores etc.).
-	- MIT App Inventor / Android Studio: ferramenta escolhida para o desenvolvimento do aplicativo móvel, com uma interface visual e acessível, facilitando a integração com o hardware.
-	- Tinkercad / Fritzing: usados para simulação e esquematização dos circuitos eletrônicos antes da montagem física.
-	- Google Drive / Google Docs: para organização dos documentos, cronogramas, atas de reunião e planejamento geral do projeto.
-	- GitHub: para a gestão do código-fonte, controle de versões e colaboração entre os membros, possibilitando que todos acompanhassem o progresso e fizessem alterações seguras no projeto.
+- Arduino IDE: utilizado para a programação da parte física da máquina (controle de motores, sensores, atuadores etc.).
+- MIT App Inventor / Android Studio: ferramenta escolhida para o desenvolvimento do aplicativo móvel, com uma interface visual e acessível, facilitando a integração com o hardware.
+- Tinkercad / Fritzing: usados para simulação e esquematização dos circuitos eletrônicos antes da montagem física.
+- Google Drive / Google Docs: para organização dos documentos, cronogramas, atas de reunião e planejamento geral do projeto.
+- GitHub: para a gestão do código-fonte, controle de versões e colaboração entre os membros, possibilitando que todos acompanhassem o progresso e fizessem alterações seguras no projeto.
