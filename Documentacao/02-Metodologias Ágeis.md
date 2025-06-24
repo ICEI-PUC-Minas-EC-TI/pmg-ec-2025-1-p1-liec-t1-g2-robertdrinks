@@ -15,10 +15,10 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 ### Processo
 
 A equipe se organizou utilizando o Trello, uma plataforma online de gestão de tarefas baseada na metodologia Kanban. As atividades foram divididas em listas como “A Fazer”, “Em andamento” e “Concluído”, o que permitiu um acompanhamento visual do progresso e uma melhor distribuição das responsabilidades entre os membros. Cada integrante ficou responsável por áreas específicas, como:
-	-Programação da máquina (hardware);
-	-Desenvolvimento do aplicativo;
-	-Documentação e testes;
-	-Integração entre os sistemas.
+	- Programação da máquina (hardware);
+	- Desenvolvimento do aplicativo;
+	- Documentação e testes;
+	- Integração entre os sistemas.
  Cole aqui um print do quadro Kanban utilizado pelo grupo.
  
 
