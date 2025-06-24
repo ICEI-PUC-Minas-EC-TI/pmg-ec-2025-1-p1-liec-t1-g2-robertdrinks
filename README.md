@@ -24,7 +24,7 @@
 
 ## Resumo
 
-O projeto será uma máquina de bebidas controlada pelo celular, o usuário deve colocar um copo na bandeija e selecionar uma bebida, então o sistema irá mover o copo até a bebida selecionada e automaticamente despejar o líquido até o copo ser enchido por completo.
+O projeto será uma máquina de bebidas controlada pelo celular, o usuário deve selecionar uma bebida, então o sistema irá automaticamente despejar o líquido até o copo ser enchido por completo.
 
 # Código (do arduino ou esp32)
 
