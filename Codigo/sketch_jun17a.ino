@@ -21,7 +21,7 @@ void loop() {
   if(side == 49){ // Aciona o motor no sentido Horário
     Serial.println("Horario");
     Serial.println(velocidade);
-    for(i=0;i<4;i++){  // Intercala o as bobinas acionadas
+    for(i=0;i<4;i++){  // Intercala as bobinas acionadas
        digitalWrite(pins[i],HIGH); // Envia um pulso de um passo
        delay(velocidade); 
        digitalWrite(pins[i],LOW);
