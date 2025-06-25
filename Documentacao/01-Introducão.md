@@ -1,6 +1,6 @@
 # Introdução
 
-Este trabalho apresenta o desenvolvimento de uma máquina de bebidas automatizada integrada a u aplicativo, que permite o usuário selecionar e personalizar sua bebida de forma prática, rápida e intuitiva. 
+Este trabalho apresenta o desenvolvimento de uma máquina de bebidas automatizada integrada a um aplicativo, que permite o usuário selecionar e personalizar sua bebida de forma prática, rápida e intuitiva. 
 O projeto foi idealizado a partir da ideia de facilitar a criação de detreminadas bebidas no dia a dia, de forma que proporcione conveniência e autonomia em seus preparos. 
 O problema encontrado foi a limitação de opções e a falta de agilidade em máquinas tradicionas de bebidas, que muitas vezes não atendem às preferncias individuais dos usuários. 
 O objeto principla do projeto foi desenvolver um sistema que unisse hardware e software para oferecer uma experiência moderna, interativa e personalizada. 
