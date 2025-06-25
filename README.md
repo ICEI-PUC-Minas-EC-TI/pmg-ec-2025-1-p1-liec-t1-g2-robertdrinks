@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Máquina de Bebidas
 
 `PUC Minas`
 
@@ -15,6 +15,7 @@
 * Debora Eduarda Lino 
 * João Luiz Azevedo Delasalle
 * Juliano Ricaldoni Alves de Melo
+* Lucas Medeiros Bougleux
 
 ## Orientador
 
